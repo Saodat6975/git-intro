@@ -6,4 +6,4 @@ def remove_dots(string):
 
     
 print(add_dots('test'))
-print(remove_dots('s.a.odat'))
+print(remove_dots('M.a.h.m.u.d'))
