@@ -8,3 +8,10 @@ class Human:
         self.old = old
         self.name = name
         self.nationality = nationality
+
+class Employee:
+    vacation_days = 30 
+
+    def __init__(self, location, job _name) -> None:
+        self.location = location
+        self.job_name = job
