@@ -7,4 +7,4 @@ class Bank:
 
 Saodat = Bank('Saodat Saydirasulova', 138273928)
 Mahmud = Bank('Mahmud', 7924834)
-Umar = Bank('Umar', 2974936)
+Umar = Bank('Umar', 297493667)
