@@ -12,6 +12,6 @@ class Human:
 class Employee:
     vacation_days = 30 
 
-    def __init__(self, location, job _name) -> None:
+    def __init__(self, location, job_name) -> None:
         self.location = location
-        self.job_name = job
+        self.job_name = job_name
