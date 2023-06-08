@@ -9,6 +9,8 @@ class Human:
         self.name = name
         self.nationality = nationality
 
+
+
 class Employee:
     vacation_days = 30 
 
